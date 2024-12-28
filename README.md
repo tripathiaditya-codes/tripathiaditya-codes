@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fbleach&psig=AOvVaw2tfQaCYrv2eNCZLFuWGwFu&ust=1735477803312000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDm-eTEyooDFQAAAAAdAAAAABAE"  />
 
 ###
 
@@ -27,7 +27,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
 ###
