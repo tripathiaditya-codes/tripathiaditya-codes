@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tripathiaditya-codes
+e- 👋 Hi, I’m @tripathiaditya-codes
 - 👀 I’m interested in Game dev
 - 🌱 I’m currently learning C/C++
 - 📫 How to reach me adityakumar.tripathi.2891@gmail.com
@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/8uaOiZk0xg2Na/giphy.gif?cid=790b7611zu6tneg7umybqbw7gs6w8isxusf7lornj1svm459&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="150" src="https://giphy.com/gifs/JIX9t2j0ZTN9S"  />
 
 ###
 
