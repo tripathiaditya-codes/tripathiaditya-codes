@@ -16,6 +16,13 @@
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
 ...
 </details>
+
+<p>{office_quote}</p>
+
+<p>{office_character}</p>
+
+Check back at the top of the hour for a new quote!
+
 <!---
 tripathiaditya-codes/tripathiaditya-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
