@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fbleach&psig=AOvVaw2tfQaCYrv2eNCZLFuWGwFu&ust=1735477803312000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDm-eTEyooDFQAAAAAdAAAAABAE"  />
+<img align="right" height="150" src="https://media.giphy.com/media/8uaOiZk0xg2Na/giphy.gif?cid=790b7611zu6tneg7umybqbw7gs6w8isxusf7lornj1svm459&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
