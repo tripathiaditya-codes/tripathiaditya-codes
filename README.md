@@ -12,7 +12,7 @@ e- 👋 Hi, I’m @tripathiaditya-codes
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/DrJm6F9poo4aA.webp"  />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNucmRmZXFld3g4MTdrNTdmaTZib3FueTMwZWtybjd1NmhmZnZzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.webp"  />
 
 ###
 
