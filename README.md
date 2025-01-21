@@ -6,7 +6,7 @@ e- 👋 Hi, I’m @tripathiaditya-codes
 
 
  
-<h2 align="left">Hi 👋! My name is Aditya and I'm a Front-end developer</h2>
+<h2 align="left">Hi 👋! My name is Aditya</h2>
 
 ###
 
