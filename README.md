@@ -28,6 +28,8 @@ e- 👋 Hi, I’m @tripathiaditya-codes
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="30" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30" />
+  <img width="12" />
 
 </div>
 
