@@ -12,7 +12,7 @@ function App() {
     { claim: 'Water boils at 100 degrees Celsius at sea level', verdict: 'TRUE', confidence: 'High', explanation: 'This is a well-established scientific fact.' },
     { claim: 'The moon is made of cheese', verdict: 'FALSE', confidence: 'High', explanation: 'The moon is composed of rock and regolith, not cheese.' },
     { claim: 'Humans use only 10% of their brain', verdict: 'FALSE', confidence: 'High', explanation: 'This is a common myth. Brain imaging shows that most of the brain is active most of the time.' },
-    { claim: 'The Great Wall of China is visible from space', verdict: 'MOSTLY FALSE', confidence: 'Medium', explanation: 'It\'s not visible to the naked eye from low Earth orbit without aid.' },
+    { claim: 'The Great Wall of China is visible from space', verdict: 'MOSTLY FALSE', confidence: 'Medium', explanation: 'It is not visible to the naked eye from low Earth orbit without aid.' },
   ];
 
   const checkFact = (e) => {
