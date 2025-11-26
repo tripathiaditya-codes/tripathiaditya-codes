@@ -41,7 +41,7 @@ e- 👋 Hi, I’m @tripathiaditya-codes
    <a href =https://www.linkedin.com/in/aditya-kumar-tripathi28/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="gmail logo"  /></a>
    <img src ="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" height="35" alt="wireshark logo">
   
- 
+ <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/artist/3qiHUAX7zY4Qnjx8TNUzVx?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ###
 
