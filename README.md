@@ -41,7 +41,7 @@ e- 👋 Hi, I’m @tripathiaditya-codes
    <a href =https://www.linkedin.com/in/aditya-kumar-tripathi28/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="gmail logo"  /></a>
    <img src ="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" height="35" alt="wireshark logo">
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31aeixdml5nlyj5bfjcp4wyo5lt4&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31aeixdml5nlyj5bfjcp4wyo5lt4&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31aeixdml5nlyj5bfjcp4wyo5lt4&redirect=true)
 ###
 
 
