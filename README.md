@@ -42,7 +42,7 @@ e- 👋 Hi, I’m @tripathiaditya-codes
    <img src ="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" height="35" alt="wireshark logo">
 </div>
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31aeixdml5nlyj5bfjcp4wyo5lt4&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31aeixdml5nlyj5bfjcp4wyo5lt4&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31aeixdml5nlyj5bfjcp4wyo5lt4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31aeixdml5nlyj5bfjcp4wyo5lt4&redirect=true)
 ###
 
 
