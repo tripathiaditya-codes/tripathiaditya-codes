@@ -40,6 +40,7 @@ e- 👋 Hi, I’m @tripathiaditya-codes
   <a href =adityakumar.tripathi.2891@gmail.com ><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
    <a href =https://www.linkedin.com/in/aditya-kumar-tripathi28/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="gmail logo"  /></a>
    <img src ="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" height="35" alt="wireshark logo">
+</div>
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31aeixdml5nlyj5bfjcp4wyo5lt4&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31aeixdml5nlyj5bfjcp4wyo5lt4&redirect=true)
 ###
