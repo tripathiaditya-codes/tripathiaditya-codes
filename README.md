@@ -39,6 +39,8 @@ e- 👋 Hi, I’m @tripathiaditya-codes
  <a href =https://www.instagram.com/ig_aditya281/?__pwa=1> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
  
   <a href =adityakumar.tripathi.2891@gmail.com ><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+   <a href =https://www.linkedin.com/in/aditya-kumar-tripathi28/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="gmail logo"  /></a>
+  
  
 
 ###
