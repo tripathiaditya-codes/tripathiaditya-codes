@@ -1,68 +1,86 @@
-e- 👋 Hi, I’m @tripathiaditya-codes
-- 🌱 I’m currently learning Java
-- 📫 How to reach me adityakumar.tripathi.2891@gmail.com
-- 😄 Pronouns: he/him
+<h1 align="center">Hi 👋, I'm Aditya Kumar Tripathi</h1>
+<h3 align="center">🔐 Aspiring SOC Analyst | Cybersecurity Enthusiast | BSc IT Student</h3>
 
+---
 
- 
-<h2 align="left">Hi 👋! My name is Aditya</h2>
+## 🚀 About Me
 
-###
+- 🎓 BSc IT Student from India  
+- 🛡️ Currently focused on Blue Team & SOC Analyst skills  
+- 🌱 Learning: Java, Python, Networking & Security Fundamentals  
+- 🔍 Interested in Threat Detection, Incident Response & Security Automation  
+- 📫 Reach me at: **adityakumar.tripathi.2891@gmail.com**
 
-###
+---
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNucmRmZXFld3g4MTdrNTdmaTZib3FueTMwZWtybjd1NmhmZnZzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.webp"  />
+## 🛠️ Technical Skills
 
-###
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30" />
-  <img width="12" />
+### 🔐 Security Tools
+- Wireshark  
+- Nmap  
+- Basic SIEM Concepts  
+- Log Analysis  
 
-</div>
+---
 
-###
-
-<div align="left">
- <a href =https://www.instagram.com/ig_aditya281/?__pwa=1> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href =adityakumar.tripathi.2891@gmail.com ><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-   <a href =https://www.linkedin.com/in/aditya-kumar-tripathi28/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="gmail logo"  /></a>
-   <img src ="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" height="35" alt="wireshark logo">
-</div>
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31aeixdml5nlyj5bfjcp4wyo5lt4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31aeixdml5nlyj5bfjcp4wyo5lt4&redirect=true)
-<h2 align="center">🛡️ TryHackMe Profile</h2>
+## 🛡️ TryHackMe Profile
 
 <p align="center">
   <a href="https://tryhackme.com/p/adityakumar.tripathi.2891">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/adityakumar.tripathi.2891.png" 
-         alt="TryHackMe Badge"
-         width="250"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/adityakumar.tripathi.2891.png" width="260"/>
   </a>
 </p>
 
+---
 
+## 📂 Featured Projects
 
-###
+### 🔎 Port Scanner
+- Built using Python
+- Performs TCP scanning
+- Helps identify open ports & services
 
+### 🧠 TruthLens
+- Detects misinformation patterns
+- Built with Python & Streamlit
 
-###
+---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tripathiaditya-codes&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathiaditya-codes&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
-<!---
-tripathiaditya-codes/tripathiaditya-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aditya-kumar-tripathi28/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:adityakumar.tripathi.2891@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/ig_aditya281/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ *“Consistency in labs today, security engineer tomorrow.”*
