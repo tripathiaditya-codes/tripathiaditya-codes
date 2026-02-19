@@ -43,7 +43,8 @@ e- 👋 Hi, I’m @tripathiaditya-codes
 </div>
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31aeixdml5nlyj5bfjcp4wyo5lt4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31aeixdml5nlyj5bfjcp4wyo5lt4&redirect=true)
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/aditya123.png)](https://tryhackme.com/p/aditya123)
+<img src="https://tryhackme-badges.s3.amazonaws.com/adityakumar.tripathi.2891.png" alt="Your Image Badge" />
+
 
 
 ###
